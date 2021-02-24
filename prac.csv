@@ -1,0 +1,104 @@
+Courses,Pure Math,Database,Presentation,Stats,Design,Logic,Science,Humanities,Marks
+,,,,,,,,,
+Software Engineering,6,8,7,7,8,8,7,6,78
+Software Engineering,8,7,7,5,9,9,8,6,76
+Software Engineering,7,6,5,5,9,7,8,6,84
+Software Engineering,9,9,4,6,10,9,3,4,80
+Software Engineering,2,8,4,4,9,8,7,7,86
+Software Engineering,4,9,6,6,4,8,4,8,64
+Software Engineering,7,6,9,3,6,8,5,7,58
+Calculus,8,8,9,7,6,9,7,7,80
+Calculus,6,7,5,7,8,6,9,9,77
+Calculus,5,7,8,6,7,6,7,8,55
+Calculus,7,6,8,5,6,6,8,9,64
+Calculus,8,8,7,8,7,7,9,8,76
+Calculus,7,9,6,6,8,8,8,6,70
+Differential Equations,8,7,8,7,9,7,6,6,74
+Differential Equations,7,7,7,8,6,8,7,7,75
+Differential Equations,6,8,7,5,6,6,7,8,55
+Differential Equations,5,7,6,6,7,5,7,7,50
+Differential Equations,9,8,6,8,7,8,8,5,78
+Differential Equations,7,7,6,8,8,7,8,8,75
+Linear Algebra,6,8,7,7,5,8,7,7,65
+Linear Algebra,8,7,6,9,7,8,8,5,77
+Linear Algebra,7,6,5,8,7,6,7,8,70
+Linear Algebra,5,7,8,7,6,7,6,7,65
+Linear Algebra,9,8,7,8,7,9,8,10,80
+Linear Algebra,5,7,4,6,7,6,7,8,55
+Probability,8,7,8,9,7,8,8,5,80
+Probability,5,6,5,6,7,7,7,8,60
+Probability,6,8,7,4,8,6,7,6,58
+Probability,7,8,6,6,7,7,8,9,65
+Probability,9,7,6,8,6,8,7,6,70
+Probability,5,6,7,6,7,7,8,8,62
+Numerical Computing,8,7,8,7,6,7,6,5,78
+Numerical Computing,5,6,5,6,7,6,8,5,55
+Numerical Computing,6,8,9,7,8,7,7,6,60
+Numerical Computing,7,6,6,8,7,9,8,7,68
+Numerical Computing,8,7,8,7,6,7,6,6,74
+Numerical Computing,9,8,7,8,6,8,6,5,75
+Data Structures,7,8,5,6,8,9,6,7,79
+Data Structures,9,9,3,7,9,9,4,5,90
+Data Structures,3,10,2,3,10,10,3,1,89
+Data Structures,10,4,10,9,4,5,9,9,45
+Data Structures,10,7,7,6,6,7,7,7,65
+Algorithms,8,9,5,4,9,9,5,5,92
+Algorithms,9,4,9,9,4,5,9,9,45
+Algorithms,7,6,7,7,7,8,8,9,73
+Algorithms,6,10,7,10,10,10,5,5,98
+Algorithms,7,1,3,7,2,3,8,8,30
+Software Design & Analysis,8,9,4,5,10,10,6,3,99
+Software Design & Analysis,9,9,9,9,2,3,8,7,25
+Software Design & Analysis,10,10,10,10,10,10,10,10,100
+Software Design & Analysis,9,5,9,7,5,5,7,7,52
+Software Design & Analysis,8,7,8,8,6,7,9,9,75
+Operting Systems,5,7,4,5,6,10,6,6,85
+Operting Systems,2,5,2,3,10,10,3,4,95
+Operting Systems,10,10,10,10,10,10,10,10,100
+Operting Systems,5,10,2,3,10,10,4,6,98
+Operting Systems,10,3,10,10,3,4,10,10,35
+Programming Fundamentals,8,5,3,8,9,9,3,4,93
+Programming Fundamentals,3,10,3,3,9,9,9,8,75
+Programming Fundamentals,9,6,3,9,10,10,3,3,98
+Programming Fundamentals,3,10,10,3,3,3,10,10,35
+Programming Fundamentals,10,3,3,10,2,2,5,6,52
+Discrete Structures,10,7,3,9,3,9,3,3,96
+Discrete Structures,3,2,2,3,3,3,3,2,15
+Discrete Structures,10,4,4,5,2,5,5,3,65
+Discrete Structures,4,10,10,3,10,3,9,9,38
+Discrete Structures,7,10,10,7,9,7,9,7,72
+English Composition & Comprehension,6,7,8,6,6,7,7,8,80
+English Composition & Comprehension,5,8,6,6,5,7,7,5,65
+English Composition & Comprehension,6,8,7,6,9,8,9,7,69
+English Composition & Comprehension,4,4,9,4,3,7,5,8,84
+English Composition & Comprehension,5,4,9,4,5,5,9,5,78
+English Composition & Comprehension,9,8,5,8,7,6,8,6,60
+English Composition & Comprehension,9,8,7,8,7,9,8,7,75
+Communication & Presentation Skills,9,8,9,8,7,7,8,9,88
+Communication & Presentation Skills,4,3,9,5,8,9,5,9,89
+Communication & Presentation Skills,5,3,7,3,2,8,3,8,68
+Communication & Presentation Skills,5,6,3,4,5,9,4,9,60
+Communication & Presentation Skills,9,8,3,8,7,5,8,7,55
+Communication & Presentation Skills,9,8,2,8,8,9,8,6,51
+Communication & Presentation Skills,3,5,8,4,9,9,5,7,74
+Mass communication,9,8,6,8,8,9,8,6,55
+Mass communication,9,8,9,8,8,9,2,6,48
+Mass communication,9,8,7,9,9,3,6,9,55
+Mass communication,9,8,7,8,8,2,9,9,84
+Mass communication,3,4,8,4,7,8,9,7,89
+Mass communication,9,8,2,8,8,4,8,3,71
+Mass communication,2,4,9,8,5,6,9,6,87
+Enterprenuership,3,5,8,4,9,9,5,7,74
+Enterprenuership,9,5,2,7,8,9,5,5,40
+Enterprenuership,3,5,8,4,9,9,5,7,74
+Enterprenuership,9,9,5,6,9,9,5,5,52
+Enterprenuership,9,9,5,6,9,9,5,7,60
+Enterprenuership,8,7,9,4,9,9,5,8,83
+Enterprenuership,7,5,8,4,8,8,5,8,76
+Technical & Business Writing,9,8,9,8,7,7,8,9,88
+Technical & Business Writing,4,3,9,5,8,9,5,9,89
+Technical & Business Writing,7,6,7,6,7,8,3,6,68
+Technical & Business Writing,7,8,5,9,9,7,8,7,60
+Technical & Business Writing,9,8,6,8,7,9,8,7,70
+Technical & Business Writing,9,8,2,8,8,9,8,6,51
+Technical & Business Writing,3,2,8,4,6,9,5,8,74
