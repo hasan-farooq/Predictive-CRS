@@ -81,7 +81,7 @@ public class CourseSurvey {
 
 
         ProcessBuilder processBuilder = new ProcessBuilder();
-        processBuilder.command("bash", "-c", "/home/hasan/python/env/bin/python3 /home/hasan/python/prac.py");
+        processBuilder.command("bash", "-c", "/home/hasan/python/env/bin/python3 /home/hasan/python/regression_model.py");
         try {
             Process process = processBuilder.start();
             StringBuilder output = new StringBuilder();
