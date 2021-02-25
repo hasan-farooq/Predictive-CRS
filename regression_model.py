@@ -19,7 +19,7 @@ def grade(marks):
 
 print("Running Python...")
 
-df = pd.read_csv("/home/hasan/python/prac.csv")
+df = pd.read_csv("/home/hasan/python/data.csv")
 # course = 'software engineering'
 df = df.dropna(how='any',axis=0)    #remove nulls
 
